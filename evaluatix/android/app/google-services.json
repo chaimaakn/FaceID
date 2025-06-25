@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97231834157",
+    "project_id": "login-signin20",
+    "storage_bucket": "login-signin20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97231834157:android:ca4547124fbd92be69fca4",
+        "android_client_info": {
+          "package_name": "com.example.evaluatix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPTiYQ8xXGXKySRxOcFxABGf-_kKmeIsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
